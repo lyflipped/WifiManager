@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WifiManager</string>
+    <string name="list_name">Wifi List</string>
+    <string name="refresh">refresh</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_quit">退出</string>
+</resources>

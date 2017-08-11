@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="LightGrey">#F5F5F5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="White">#FFFFFF</color>
+    <color name="holo_blue_bright">#6495ED</color>
+    <color name="holo_green_light">#32CD32</color>
+    <color name="holo_orange_light">	#FF8C00</color>
+    <color name="holo_red_light">#FF0000</color>
+    <color name="green_bg">#199475</color>
+</resources>
